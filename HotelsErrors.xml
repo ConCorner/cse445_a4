@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Hotel> <!-- Error 1: Wrong root -->
+  <Name>Invalid Hotel</Name>
+  <!-- Error 2: Missing required NearestAirport -->
+  <Address>
+    <Number>123</Number>
+    <Street>Error Street</Street>
+    <City>Error City</City>
+    <State>XX</State>
+    <Zip>00000</Zip>
+  </Address>
+  <!-- Error 3: Missing Phone -->
+  <Rating>0.0</Rating>
+  <Name>Duplicate Name</Name> <!-- Error 5: Duplicate Name -->
+  <Address> <!-- Error 4: No closing tag -->
+</Hotel>
