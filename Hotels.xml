@@ -13,5 +13,149 @@
     <Phone>480-968-8885</Phone>
     <Rating source="AAA">4.2</Rating>
   </Hotel>
-  <!-- Add at least 10 hotels -->
+
+  <Hotel>
+    <Name>Hilton New York</Name>
+    <Address NearestAirport="JFK">
+      <Number>1335</Number>
+      <Street>6th Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+    </Address>
+    <Phone>212-586-7000</Phone>
+    <Rating source="Forbes">4.5</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Marriott Marquis</Name>
+    <Address NearestAirport="SFO">
+      <Number>780</Number>
+      <Street>Mission St</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+    <Phone>415-896-1600</Phone>
+    <Rating source="AAA">4.7</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Hyatt Regency Chicago</Name>
+    <Address NearestAirport="ORD">
+      <Number>151</Number>
+      <Street>E Wacker Dr</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+    <Phone>312-565-1234</Phone>
+    <Phone>312-565-4321</Phone>
+    <Rating source="TripAdvisor">4.4</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Ritz-Carlton Miami</Name>
+    <Address NearestAirport="MIA">
+      <Number>330</Number>
+      <Street>SW 27th Ave</Street>
+      <City>Miami</City>
+      <State>FL</State>
+      <Zip>33129</Zip>
+    </Address>
+    <Phone>305-644-4500</Phone>
+    <Rating source="AAA">4.8</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Sheraton Dallas</Name>
+    <Address NearestAirport="DFW">
+      <Number>400</Number>
+      <Street>Olive St</Street>
+      <City>Dallas</City>
+      <State>TX</State>
+      <Zip>75201</Zip>
+    </Address>
+    <Phone>214-922-8000</Phone>
+    <Rating source="Expedia">4.1</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Four Seasons Boston</Name>
+    <Address NearestAirport="BOS">
+      <Number>200</Number>
+      <Street>Boylston St</Street>
+      <City>Boston</City>
+      <State>MA</State>
+      <Zip>02116</Zip>
+    </Address>
+    <Phone>617-338-4400</Phone>
+    <Rating source="AAA">4.9</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>W Seattle</Name>
+    <Address NearestAirport="SEA">
+      <Number>1112</Number>
+      <Street>4th Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+    <Phone>206-264-6000</Phone>
+    <Rating source="Google">4.3</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Loews Atlanta</Name>
+    <Address NearestAirport="ATL">
+      <Number>1065</Number>
+      <Street>Peachtree St NE</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30309</Zip>
+    </Address>
+    <Phone>404-745-5000</Phone>
+    <Phone>404-745-5001</Phone>
+    <Rating source="AAA">4.6</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Omni Las Vegas</Name>
+    <Address NearestAirport="LAS">
+      <Number>999</Number>
+      <Street>Resorts Blvd</Street>
+      <City>Las Vegas</City>
+      <State>NV</State>
+      <Zip>89109</Zip>
+    </Address>
+    <Phone>702-555-1234</Phone>
+    <Rating source="Yelp">4.0</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Fairmont San Jose</Name>
+    <Address NearestAirport="SJC">
+      <Number>170</Number>
+      <Street>S Market St</Street>
+      <City>San Jose</City>
+      <State>CA</State>
+      <Zip>95113</Zip>
+    </Address>
+    <Phone>408-998-1900</Phone>
+    <Rating source="AAA">4.5</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>InterContinental New Orleans</Name>
+    <Address NearestAirport="MSY">
+      <Number>444</Number>
+      <Street>St Charles Ave</Street>
+      <City>New Orleans</City>
+      <State>LA</State>
+      <Zip>70130</Zip>
+    </Address>
+    <Phone>504-525-5566</Phone>
+    <Rating source="TripAdvisor">4.7</Rating>
+  </Hotel>
 </Hotels>
